@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+h1 #logo {
+    width: 50%;
+}
+
 .topnav {
     font-size: 14px;
 }
@@ -158,6 +162,11 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+
+    h1 #logo {
+        width: 90%;
+    }
+
 }
 
 footer {

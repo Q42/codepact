@@ -181,3 +181,21 @@ p.copyright {
 .partner {
     text-decoration: underline;
 }
+
+.startupdelta {
+  width: 50px;
+  margin-top: 10px;
+}
+
+#partner-logos {
+  width: 100%;
+}
+#partner-logos td {
+  width: 25%;
+  padding: 3%;
+  text-align: center;
+  vertical-align: middle;
+}
+#partner-logos img {
+  width: 100%;
+}

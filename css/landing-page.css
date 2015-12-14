@@ -203,4 +203,6 @@ p.copyright {
 .btn-green {
   color: green;
   border-color: green;
+  font-size: 25px;
+  border-width: 2px;
 }
